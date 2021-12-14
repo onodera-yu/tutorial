@@ -5,3 +5,6 @@
 - taskディレクトリの中に「hello_coadmap.yml」ファイルを作成しましょう
 
 この中にチュートリアルのコードを書いてください。
+mkdir task
+cd task
+touch hello_coadmap.yml
